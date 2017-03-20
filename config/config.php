@@ -25,7 +25,7 @@ error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT);
 /**
  * Application configuration
  */
-$conf['settings']['app.title'] = 'Booked Scheduler';			// application title
+$conf['settings']['app.title'] = 'Carsaving Corporate Car Sharing';			// application title
 $conf['settings']['default.timezone'] = 'Europe/Rome';      // look up here http://php.net/manual/en/timezones.php
 $conf['settings']['allow.self.registration'] = 'true';         	// if users can register themselves
 $conf['settings']['admin.email'] = 'assistenza@cartsoftware.eu';         // email address of admin user
