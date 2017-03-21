@@ -16,12 +16,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with Booked Scheduler.  If not, see <http://www.gnu.org/licenses/>.
-<<<<<<< HEAD
-
-matteo 21/03/2017
-=======
-wefwaerfawerfawe
->>>>>>> 65ff451f9482de29ff20b30e3a3b7dfd505f3de4
 */
 
 require_once('config/config.php');
